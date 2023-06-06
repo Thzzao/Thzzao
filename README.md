@@ -13,7 +13,7 @@
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Minha linguagem de maior domínio é o `Python`.
-- :student: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
+- :man_student: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :nerd_face: Sempre `buscando coisas novas` .
 - :airplane: Meu sonho é me tornar um `piloto de avião` algum dia. 
 - :zap: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http:xxxxxxxxxxxxxx).
