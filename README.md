@@ -40,7 +40,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="thiagojdss" height="30" width="40" /></a>
   <a href="https://www.facebook.com/thiagojdss" target="blank"><img align="center"
-      src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="thiagojdss" height="30" width="40" /></a>
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
