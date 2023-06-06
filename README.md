@@ -15,8 +15,8 @@
 - :computer: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :nerd_face: Sempre `buscando coisas novas` .
-- :airplane: Meu sonho é me tornar um `piloto de avião` algum dia. 
-- :zap: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http:xxxxxxxxxxxxxx).
+- :airplane: Meu sonho é me tornar um `Piloto de Avião` algum dia. 
+- :zap: No momento, estou aberto para uma nova `Oportunidade de Emprego`. Este é o meu [Currículo](http:xxxxxxxxxxxxxx).
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
