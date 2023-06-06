@@ -9,17 +9,17 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: Sou `graduando` de [Análise e Desenvolviemnto de Sistemas]() pela [Pontifícia Universidade Católica do Paraná](https://www.pucpr.br/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Minha linguagem de maior domínio é o `Python`.
-<!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 - :student: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
-- :nerd_face: Sempre `aprendendo coisas novas`.
+- :nerd_face: Sempre `buscando coisas novas` .
 - :airplane: Meu sonho é me tornar um `piloto de avião` algum dia. 
-- :thinking: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :zap: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http:xxxxxxxxxxxxxx).
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
+<!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 
 <!-- Linguagens -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b><br>
