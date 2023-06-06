@@ -10,7 +10,7 @@
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
-<!-- - :trophy: 2x `ACPC` Finalist. -->
+
 - :computer: I love using Software as a solution for every `Problem`.
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
@@ -20,6 +20,7 @@
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
+<!-- - :trophy: 2x `ACPC` Finalist. -->
 
 <!-- Linguagens -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b><br>
