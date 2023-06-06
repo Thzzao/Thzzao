@@ -44,9 +44,9 @@
       alt="thiagojdss" height="32" width="42" /></a>
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="thiago_jdss" height="30" width="40" /></a>
+      alt="thiago_jdss" height="32" width="42" /></a>
   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="26" width="36" margin-left="5px" /></a>
+      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38" /></a>
 <!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
