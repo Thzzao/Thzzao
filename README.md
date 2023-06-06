@@ -24,7 +24,8 @@
 <p align="center">
 
 <!-- Git Status -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<b> Github Stats </b>
 	
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&username=thzzao" height="150" alt="stats graph"  />
@@ -33,7 +34,8 @@
 <br>
 
 <!-- Redes Sociais -->
-## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Let's Connect..!</b>
+## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
+<b align="center">Let's Connect..!</b>
 
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -46,12 +48,6 @@
       alt="thiago_jdss" height="32" width="42" /></a>
   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38" /></a>
-<!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
-<!--  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 <br>
 <br>
@@ -63,7 +59,7 @@
 </p>
 
 
-<!-- Spotfy -->
+<!-- Spotify -->
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)</div>
 
 
