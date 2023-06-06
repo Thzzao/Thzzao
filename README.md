@@ -16,7 +16,7 @@
 - :
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
-- :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. Este é o meu [Currículo](https://drive.google.com/drive/folders/13kXCvDU6PVAOcwU-5nocotfgcThX4F2w).
+- :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. Este é o meu [Currículo]().
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
