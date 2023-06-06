@@ -25,7 +25,6 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 <br />
-<br />
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
