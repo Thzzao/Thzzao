@@ -34,8 +34,7 @@
 <br/>
 
 <!-- Redes Sociais -->
-<!-- ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Let's Connect..!</b> -->
-<b align="center">Hey there, I'm Thiago! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35"><b>
+## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Let's Connect..!</b>
 
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -47,7 +46,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="thiago_jdss" height="30" width="40" /></a>
   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="28" width="38" /></a>
+      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="26" width="36" /></a>
 <!--   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a> -->
