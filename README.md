@@ -16,7 +16,7 @@
 - :student: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :nerd_face: Sempre `aprendendo coisas novas`.
 - :thinking: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: Você pode se conectar comigo no [Linkedin] também (https://www.linkedin.com/in/thiagojdss/).
+- :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
 
 <!-- Linguagens -->
