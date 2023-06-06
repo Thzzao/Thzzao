@@ -41,7 +41,7 @@
       alt="thiagojdss" height="30" width="40" /></a>
   <a href="https://www.facebook.com/thiagojdss" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="thiagojdss" height="30" width="40" /></a>
+      alt="thiagojdss" height="32" width="42" /></a>
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="thiago_jdss" height="30" width="40" /></a>
