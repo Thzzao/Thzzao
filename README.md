@@ -15,8 +15,8 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :nerd_face: Sempre `aprendendo coisas novas`.
-- :thinking: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [CURRÍCULO](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: Você pode se concectar comigo no [LINKEDIN](https://www.linkedin.com/in/thiagojdss/).
+- :thinking: No momento, estou aberto para uma nova `oportunidade de emprego`. Este é o meu [Currículo](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: Você pode se concectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/).
 <br>
 
 <!-- Linguagens -->
