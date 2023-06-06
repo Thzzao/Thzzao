@@ -9,10 +9,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 220px></picture>
 
-- :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [Pontifícia Universidade Católica do Paraná](https://www.pucpr.br/).
+- :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 <!-- - :trophy: 2x `ACPC` Finalist. -->
-- :man_technologist: I love using Software as a solution for every `Problem`.
-- :computer: Minha linguagem de maior domínio é o `Python`.
+- :computer: I love using Software as a solution for every `Problem`.
+- :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Atualmente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :nerd_face: Sempre `buscando coisas novas` .
 - :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
