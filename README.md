@@ -37,20 +37,20 @@
 
 <!-- Redes Sociais -->
 <div align="center">
-## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Conecte-se comigo</b>
+	## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Conecte-se comigo</b>
 
-  <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="thiagojdss" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/thiagojdss" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="thiagojdss" height="32" width="42" /></a>
-  <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="thiago_jdss" height="32" width="42" /></a>
-<!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
-</p>
+	  <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
+	      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+	      alt="thiagojdss" height="30" width="40" /></a>
+	  <a href="https://www.facebook.com/thiagojdss" target="blank"><img align="center"
+	      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+	      alt="thiagojdss" height="32" width="42" /></a>
+	  <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
+	      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+	      alt="thiago_jdss" height="32" width="42" /></a>
+	<!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
+	      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
+	</p>
 </div>
 <br>
 <br>
