@@ -43,8 +43,7 @@
 <br>
 
 <!-- Redes Sociais -->
-<!-- ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Conecte-se comigo</b> -->
-<h3 align="center" > <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80" style="margin-right: 10px;">Connect with me</h3>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Conecte-se comigo</b>
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
