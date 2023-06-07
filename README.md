@@ -30,7 +30,7 @@
 
 
 <!-- Git Status -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&langs_count=7&theme=dracula"/>
@@ -39,7 +39,7 @@
 
 
 <!-- Redes Sociais -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Conecte-se comigo</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
