@@ -66,7 +66,8 @@
 
 
 <!-- Spotify -->
-## <img src=" " width ="80"> <b>Spotify</b>
+## <img src="![icons8-spotify](https://github.com/Thzzao/Thzzao/assets/95200381/1e839c99-8580-445d-a915-a055d53acfa9)
+" width ="80"> <b>Spotify</b>
 
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thiago.santos1160)</div>
 
