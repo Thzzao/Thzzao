@@ -57,7 +57,7 @@
 <br>
 
 <!-- Cobrinha -->
-## <a href="https://www.flaticon.com/br/icones-animados-gratis/animal" title="animal ícones animados">Animal ícones animados criados por Freepik - Flaticon</a> A Snake Eating my Contributions Graph	
+## <img src="https://www.flaticon.com/br/icones-animados-gratis/animal" width ="80"> <a>A Snake Eating my Contributions Graph</a>
 
 
 <!-- Spotify -->
