@@ -58,9 +58,8 @@
 
 <!-- Cobrinha -->
 ## A Snake Eating my Contributions Graph 🐍	
-<p align = "center">
 ![Snake animation](https://github.com/thzzao/thzzao/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 
 
 <!-- Spotify -->
