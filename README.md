@@ -60,13 +60,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="thiagojdss" height="35" width="45" /></a>
+      alt="Linkedin" height="35" width="45" /></a>
   <a href="https://www.facebook.com/thiagojdss" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="thiagojdss" height="35" width="45" /></a>
+      alt="Facebook" height="35" width="45" /></a>
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="thiago_jdss" height="35" width="45" /></a>
+      alt="Instagram" height="35" width="45" /></a>
 <!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
 </p>
