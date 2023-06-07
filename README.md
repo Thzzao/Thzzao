@@ -8,7 +8,7 @@
 <!-- Sobre mim -->
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>  
 	
-<picture><img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 325px></picture>
+<picture><img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 310px></picture>
 
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte`.
