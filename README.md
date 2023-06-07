@@ -36,6 +36,7 @@
 <br>
 
 <!-- Redes Sociais -->
+<div align="center">
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b align="center">Conecte-se comigo</b>
 
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
@@ -50,6 +51,7 @@
 <!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
 </p>
+</div>
 <br>
 <br>
 
