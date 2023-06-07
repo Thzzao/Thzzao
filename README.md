@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="thiagojdss" height="32" width="42" /></a>
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
-      src="![image](https://github.com/Thzzao/Thzzao/assets/95200381/01615d99-bd04-4a86-b3bc-b73a9ee2ac52)"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="thiago_jdss" height="32" width="42" /></a>
 <!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
