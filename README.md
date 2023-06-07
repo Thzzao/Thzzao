@@ -1,6 +1,6 @@
 
 <!-- Titulo -->
-<h1 align="center">Olá, eu sou o Thiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá, eu sou o Thiago! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+development+student+@thiago_jdss;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
@@ -13,25 +13,20 @@
 - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte`.
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
-- :
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
 - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. Este é o meu [Currículo](https://drive.google.com/file/d/134BpYSB0BQnvGncPxTQMulNObYRTWu7p/view?usp=sharing).
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <br>
+	
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 
 <!-- Linguagens -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b><br> 
-<div>
-
 <p align="center">
-<div align="left">
-- edfwdew
--fewfwf 
--efewv we
-</div>
+
+
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
