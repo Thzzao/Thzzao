@@ -60,10 +60,10 @@
 
 
 <!-- Spotify -->
-## <img src=" " width ="80"> <b>Spotify</b>
+<!-- ## <img src=" " width ="80"> <b>Spotify</b>
 
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thiago.santos1160)</div>
-
+ -->
 
 <!--
 **Thzzao/Thzzao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
