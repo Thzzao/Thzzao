@@ -22,7 +22,7 @@
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 	
 <!-- Linguagens -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
+## <img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
 <div align="left">
 - Python
 - Java
@@ -31,7 +31,7 @@
 
 
 <!-- Git Status -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
+## <img align="right" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="right">	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
