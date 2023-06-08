@@ -30,8 +30,12 @@
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="center">	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thzzao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Pepyn0">
+    <img width=450 height=170 align="center" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=thzzao&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img align="center" alt="git stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 </div>
 
 
