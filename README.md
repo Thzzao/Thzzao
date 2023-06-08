@@ -43,8 +43,7 @@
 
 
 <!-- Redes Sociais -->
-<p align="center"> ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
-</p>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
 	
 <div align="center">
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
@@ -63,7 +62,7 @@
 
 
 <!-- Cobrinha -->
-## <img src=" " width ="80"> <b>A Snake Eating my Contributions Graph</b>
+## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b>
 
 
 <!-- Spotify -->
