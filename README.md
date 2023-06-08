@@ -28,7 +28,7 @@
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
-<div align="center">	
+<div align="right">	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
