@@ -26,21 +26,25 @@
 
 - Python
 - Java
-- Javascript
+- JavaScript
+- MySQL e SQLServer
+- MongoDB
+- HTML5
+- CSS3
+- PHP
+- NodeJS
+- React
+- Git
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="right">	
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thzzao&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thzzao&theme=holi-theme">
 </div>
-
-
 
 <!-- Redes Sociais -->
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
@@ -55,8 +59,8 @@
   <a href="https://www.instagram.com/thiago_jdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram" height="35" width="45" /></a>
-<!--   <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
-      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a> -->
+  <a href = "mailto: thiago.souza1160gmail.com"><img align="center" 
+      src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a>
 </div>
 <br>
 
@@ -71,6 +75,5 @@
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thiago.santos1160)</div>
  -->
 
-Credits: [Thzzao](https://github.com/thzzao)
-
-Last Edited on: xx/xx/xxxx
+Créditos: [Thzzao](https://github.com/thzzao)
+Última edição: xx/xx/xxxx
