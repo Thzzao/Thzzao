@@ -37,12 +37,13 @@
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
-
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thzzao&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thzzao&theme=holi-theme">
+</div>
 
 	
 <!-- Redes Sociais -->
