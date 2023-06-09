@@ -22,6 +22,7 @@
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 	
 <!-- Linguagens -->
+<div display="flex">
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
 
 - Python
@@ -44,6 +45,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thzzao&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thzzao&theme=holi-theme">
+</div>
+	
 </div>
 
 <!-- Redes Sociais -->
