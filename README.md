@@ -24,11 +24,13 @@
 	
 <!-- Linguagens -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
-- Python                 | - HTML5      
-- Java                   | - CSS3
-- JavaScript             | - PHP
-- MySQL e SQLServer      | - NodeJS
-- MongoDB                | - React
+<ul>
+	<li>- Python </li>
+                - HTML5      
+- Java                   - CSS3
+- JavaScript             - PHP
+- MySQL e SQLServer      - NodeJS
+- MongoDB                - React
 - Git
 
 
