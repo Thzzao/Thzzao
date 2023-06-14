@@ -51,6 +51,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="git logo"  />
 </div>
+<br>
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
