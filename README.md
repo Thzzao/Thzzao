@@ -64,7 +64,6 @@
 </div>
 <br>
 
-
 <!-- Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
@@ -74,7 +73,5 @@
 
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thiago.santos1160)</div>
  -->
-
-
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thzzao&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
