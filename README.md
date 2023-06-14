@@ -60,8 +60,7 @@
 	
 <!-- Redes Sociais -->
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
-	
-<div align="center">
+
   <a href="https://www.linkedin.com/in/thiagojdss/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Linkedin" height="35" width="45" /></a>
@@ -73,7 +72,6 @@
       alt="Instagram" height="35" width="45" /></a>
   <a href = "mailto: thiago.souza1160@gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a>
-</div>
 
 <!-- Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
