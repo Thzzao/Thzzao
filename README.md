@@ -57,7 +57,7 @@
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=true&order=1" height="150" width = "300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=true&order=1" height="150" width = "325" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Thzzao&locale=pt-br&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thzzao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="150" width = "300" alt="languages graph"  />
 </div>
