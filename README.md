@@ -9,7 +9,7 @@
 <!-- Sobre mim -->	
 ###
 
-<img align="right" height="350" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"  />
 
 ###
 
