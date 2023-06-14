@@ -5,10 +5,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Development+Student;Data+Analytics+Student;Junior+Developer;@thiago_jdss;Always+learning+new+things"></a></p>
 
+
 <!-- Sobre mim -->	
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>  
 <p><img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px ></p>
-
 
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte`.
@@ -21,19 +21,16 @@
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 	
+	
 <!-- Linguagens -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
-- Python
-- Java
-- JavaScript
-- MySQL e SQLServer
-- MongoDB
-- HTML5
-- CSS3
-- PHP
-- NodeJS
-- React
+- Python                  - HTML5      
+- Java                    - CSS3
+- JavaScript              - PHP
+- MySQL e SQLServer       - NodeJS
+- MongoDB                 - React
 - Git
+
 
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
@@ -66,7 +63,7 @@
 
 
 <!-- Cobrinha -->
-## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b>
+<!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
 
 <!-- Spotify -->
@@ -75,6 +72,5 @@
 &nbsp;<div align="center">[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thiago.santos1160)</div>
  -->
 
-Créditos: [Thzzao](https://github.com/thzzao)
 
-Última edição: xx/xx/xxxx
+Créditos: [Thzzao](https://github.com/thzzao)
