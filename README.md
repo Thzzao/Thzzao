@@ -41,13 +41,10 @@
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzzao&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thzzao&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thzzao&theme=holi-theme">
+  <img src="https://github-readme-stats.vercel.app/api?username=thzzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thzzao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thzzao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 	
 <!-- Redes Sociais -->
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
