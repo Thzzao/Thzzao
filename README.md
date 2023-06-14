@@ -76,5 +76,6 @@
  -->
 
 
-Créditos: [Thzzao](https://github.com/thzzao)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thzzao&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+Créditos: [Thzzao](https://github.com/thzzao)
