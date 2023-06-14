@@ -8,20 +8,12 @@
 
 <!-- Sobre mim -->	
 ###
-
 <img align="right" height="350" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"  />
-
 ###
-
 <p align="left">👨‍🎓 Sou Graduando de Análise e Desenvolvimento de Sistemas pela PUC-PR.<br><br>💻 Atualmente faço Estágio na Polícia Científica do Paraná na área de Suporte.<br><br>👨‍💻 Minha linguagem de maior domínio é o Python.<br><br>🔭 Ultimamente estou aprendendo mais sobre Desenvolvimento Back-end e Análise de dados.<br><br>💪 Gosto de Treinar a mente e o corpo.<br><br>✈️ Meu sonho é me tornar um Piloto de avião algum dia.<br><br>⚡ No momento, estou aberto para uma nova Oportunidade de emprego. Este é o meu Currículo.<br><br>💥 Você pode se conectar comigo no Linkedin também.</p>
-
 ###
-
 <br clear="both">
 
-<h1 align="left">Hello World!!</h1>
-
-###
 	
 	
 <!-- Linguagens -->
