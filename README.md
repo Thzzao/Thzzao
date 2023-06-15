@@ -78,7 +78,7 @@
 </div>
 <br>
 
-<h3 aling="center">Obrigado por visitar meu perfil ✨</h3>
+<h3 align="center">Obrigado por visitar meu perfil ✨</h3>
 
 <!-- Jogo da Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
