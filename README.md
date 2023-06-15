@@ -15,7 +15,7 @@
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
-- :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
+- :airplane: Um dos meus hobbies é a `aviação`. Sempre gostei desse mundo desde pequeno.   
 - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. 
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
