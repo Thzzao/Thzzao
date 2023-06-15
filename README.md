@@ -17,10 +17,11 @@
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
 - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. 
-<!-- - Este é o meu [Currículo](https://drive.google.com/file/d/134BpYSB0BQnvGncPxTQMulNObYRTWu7p/view?usp=sharing). -->
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
+<!-- - Este é o meu [Currículo](https://drive.google.com/file/d/134BpYSB0BQnvGncPxTQMulNObYRTWu7p/view?usp=sharing). -->
+	
 	
 <!-- Ferramentas -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Ferramentas</b>
@@ -51,12 +52,14 @@
 </div>
 <br>
 
+
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thzzao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
 
 <!-- Redes Sociais -->
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
