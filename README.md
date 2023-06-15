@@ -16,7 +16,8 @@
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end` e `Análise de dados`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Meu sonho é me tornar um `Piloto de avião` algum dia. 
-- :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. Este é o meu [Currículo](https://drive.google.com/file/d/134BpYSB0BQnvGncPxTQMulNObYRTWu7p/view?usp=sharing).
+- :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. 
+<!-- - Este é o meu [Currículo](https://drive.google.com/file/d/134BpYSB0BQnvGncPxTQMulNObYRTWu7p/view?usp=sharing). -->
 - :boom: Você pode se conectar comigo no [Linkedin](https://www.linkedin.com/in/thiagojdss/) também.
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
