@@ -77,7 +77,7 @@
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.santos1160@gmail.com" height="28" width="38"/></a>
 </div>
 <br>
-
+<p>Obrigado por visitar meu perfil ✨</p>
 
 <!-- Jogo da Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
