@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thzzao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
+<br>
 
 <!-- Redes Sociais -->
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
@@ -77,8 +77,10 @@
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.souza@gmail.com" height="28" width="38"/></a>
 </div>
 
+
 <!-- Jogo da Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
-<!-- Contador de visualização -->
 
+<!-- Contador de visualização -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  />
