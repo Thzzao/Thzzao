@@ -85,5 +85,5 @@
 
 
 <!-- Contador de visualização -->
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  /> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  />
 [![](https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
