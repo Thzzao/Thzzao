@@ -22,8 +22,8 @@
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 	
-<!-- Habilidades -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
+<!-- Ferramentas -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Ferramentas</b>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
   <img width="12" />
@@ -54,9 +54,8 @@
 <!-- Git Status -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Thzzao&locale=pt-br&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" width="300px" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thzzao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thzzao&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thzzao&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <!-- Redes Sociais -->
