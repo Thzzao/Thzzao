@@ -8,8 +8,8 @@
 	
 <!-- Sobre mim -->	
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>  
-
 <img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px />
+
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte`.
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
@@ -77,4 +77,4 @@
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
 <!-- Contador de visualização -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=thzzao&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
