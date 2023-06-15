@@ -83,4 +83,4 @@
 
 
 <!-- Contador de visualização -->
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  />
