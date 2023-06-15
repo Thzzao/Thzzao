@@ -76,6 +76,7 @@
   <a href = "mailto: thiago.santos1160@gmail.com"><img align="center" 
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="thiago.santos1160@gmail.com" height="28" width="38"/></a>
 </div>
+<br>
 
 
 <!-- Jogo da Cobrinha -->
