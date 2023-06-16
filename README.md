@@ -9,7 +9,6 @@
 <!-- Sobre mim -->	
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>  
 <!-- <img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px /> -->
-
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte`.
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
@@ -61,6 +60,7 @@
 </div>
 <br>
 
+
 <!-- Redes Sociais -->
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
 <div align="center" >
@@ -80,12 +80,12 @@
 
 <h3 align="center">Obrigado por visitar meu perfil ✨</h3>
 
+
 <!-- Jogo da Cobrinha -->
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
 
 <!-- Contador de visualização -->
-[![](https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in) 
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
