@@ -85,7 +85,7 @@
 
 
 <!-- Contador de visualização -->
-<!-- [![](https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)  -->
+[![](https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in) 
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
