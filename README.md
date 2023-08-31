@@ -16,7 +16,7 @@
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Um dos meus hobbies é a `Aviação`. Sempre gostei desse mundo desde pequeno.   
 - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. 
-- :boom: Este é o meu [Currículo](https://drive.google.com/file/d/1w185bNf7LVVXu4Ig_R_-MpLSKR1rMNs2/view?usp=sharing).
+<!-- - :boom: Este é o meu [Currículo](https://drive.google.com/file/d/1w185bNf7LVVXu4Ig_R_-MpLSKR1rMNs2/view?usp=sharing). -->
 <!-- 	I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
 <!-- - :trophy: 2x `ACPC` Finalist. -->
 	
