@@ -14,7 +14,7 @@
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Um dos meus hobbies é a `Aviação`. Sempre gostei desse mundo desde pequeno.
 - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`.
-- :boom: Este é o meu [Currículo](https://drive.google.com/file/d/1j_LyMneqT_HR39S0ZqVF_fvZVOeWTEk4/view?usp=sharing).
+- :boom: Este é o meu [Currículo](https://drive.google.com/file/d/15ItvaQGzHdegD5Rs9-I4FMlLknHzphtr/view?usp=sharing).
 <!-- - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte` -->
 <!-- 	Sou um programador que gosta de competir, por exemplo: `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` -->
 
