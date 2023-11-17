@@ -5,7 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Development+Student;Data+Analytics+Student;Junior+Developer;@thiago_jdss;Always+learning+new+things"></a></p>
 
 <!-- Sobre mim -->
-
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>
 
 - :man_student: Sou `Graduando` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
@@ -19,7 +18,6 @@
 <!-- 	Sou um programador que gosta de competir, por exemplo: `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` -->
 
 <!-- Ferramentas -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Ferramentas</b>
 
 <div align="center">
@@ -53,7 +51,6 @@
 <br>
 
 <!-- Git Status -->
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 
 <div align="center">
@@ -63,7 +60,6 @@
 <br>
 
 <!-- Redes Sociais -->
-
 ## <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> <b>Conecte-se comigo</b>
 
 <div align="center" >
@@ -87,7 +83,7 @@
 <!-- ## <img src=" " width ="80"> <b>Uma cobra comendo minhas contribuições</b> -->
 
 <!-- Contador de visualização -->
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=thzzao&label=Profile%20Views&color=12&icon=1&pretty=true" />
-</a>
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  /> -->
+</a> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thzzao.thzzao&left_color=darkblue&right_color=darkcyan"  /> 
