@@ -13,10 +13,10 @@
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end e DevOps`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Um dos meus hobbies é a `Aviação`. Sempre gostei desse mundo desde pequeno.
-<!-- - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. -->
 - :boom: Este é o meu [Currículo](https://drive.google.com/file/d/15ItvaQGzHdegD5Rs9-I4FMlLknHzphtr/view?usp=sharing).
+<!-- - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. -->
 <!-- - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte` -->
-<!-- 	Sou um programador que gosta de competir, por exemplo: `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` -->
+<!-- >>>>Sou um programador que gosta de competir, por exemplo: `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`<<<< -->
 
 <!-- Ferramentas -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Ferramentas</b>
