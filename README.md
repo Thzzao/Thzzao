@@ -8,7 +8,7 @@
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>
 
 - :man_student: Sou `Graduado` em Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
-- :office: Atualmente `trabalho` no [Grupo Boticário](https://www.grupoboticario.com.br/).
+- :office: Atualmente `Trabalho` no [Grupo Boticário](https://www.grupoboticario.com.br/).
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end e DevOps`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
