@@ -7,12 +7,13 @@
 <!-- Sobre mim -->
 ## <img alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><b> Sobre mim</b>
 
-- :man_student: Sou `Graduado` de Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
+- :man_student: Sou `Graduado` em Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
+- :office: Atualmente `trabalho` no [Grupo Boticário](https://www.grupoboticario.com.br/).
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
 - :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end e DevOps`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Um dos meus hobbies é a `Aviação`. Sempre gostei desse mundo desde pequeno.
-- :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`.
+<!-- - :zap: No momento, estou aberto para uma nova `Oportunidade de emprego`. -->
 - :boom: Este é o meu [Currículo](https://drive.google.com/file/d/15ItvaQGzHdegD5Rs9-I4FMlLknHzphtr/view?usp=sharing).
 <!-- - :computer: Atualmente faço `Estágio` na Polícia Científica do Paraná na área de `Suporte` -->
 <!-- 	Sou um programador que gosta de competir, por exemplo: `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` -->
