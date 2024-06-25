@@ -10,7 +10,7 @@
 - :man_student: Sou `Graduado` em Análise e Desenvolvimento de Sistemas pela [PUC-PR](https://www.pucpr.br/).
 - :office: Atualmente `Trabalho` no [Grupo Boticário](https://www.grupoboticario.com.br/).
 - :man_technologist: Minha linguagem de maior domínio é o `Python`.
-- :telescope: Ultimamente estou aprendendo mais sobre `Desenvolvimento Back-end e DevOps`.
+- :telescope: Ultimamente estou aprendendo mais sobre `Dados`.
 - :muscle: Gosto de `Treinar` a mente e o corpo.
 - :airplane: Um dos meus hobbies é a `Aviação`. Sempre gostei desse mundo desde pequeno.
 <!-- - :boom: Este é o meu [Currículo](https://drive.google.com/file/d/15ItvaQGzHdegD5Rs9-I4FMlLknHzphtr/view?usp=sharing). -->
