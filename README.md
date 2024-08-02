@@ -40,8 +40,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="34" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="34" alt="microsoftsqlserver logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="git logo"  />
